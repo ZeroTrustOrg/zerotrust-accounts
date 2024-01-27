@@ -39,7 +39,6 @@ contract SimplePasskeyAccount is
         string clientDataJSON;
     }
     Passkey public signer;
-    address public owner;
 
     IEntryPoint private immutable _entryPoint;
 
