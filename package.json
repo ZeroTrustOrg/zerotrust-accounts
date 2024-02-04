@@ -12,11 +12,11 @@
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "@nomicfoundation/hardhat-viem": "^1.0.1",
     "hardhat": "^2.19.1",
+    "dotenv": "^16.3.1",
     "viem": "^1.19.11"
   },
   "dependencies": {
     "@account-abstraction/contracts": "^0.6.0",
-    "@openzeppelin/contracts": "^5.0.0",
-    "dotenv": "^16.3.1"
+    "@openzeppelin/contracts": "^5.0.0"
   }
 }

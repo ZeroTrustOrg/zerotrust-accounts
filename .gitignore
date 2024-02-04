@@ -9,11 +9,9 @@ node_modules
 /typechain
 /typechain-types
 /src/ethers-types
+/ethers-v6-types
 
 
 # solidity-coverage files
 /coverage
 /coverage.json
-
-# contract types
-/ethers-types

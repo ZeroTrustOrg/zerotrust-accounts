@@ -1,5 +1,5 @@
-const fs = require('fs');
 import { ethers } from "hardhat";
+
 async function main() {
   const [deployerWallet] = await ethers.getSigners();
   console.log(`SimplePasskeyAccount Factory Deployer : ${deployerWallet.address}`)

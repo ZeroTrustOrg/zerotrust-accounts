@@ -71,7 +71,7 @@ const config: HardhatUserConfig = {
       ...getNetworks()
   },
   typechain: {
-    outDir: 'ethers-types',
+    outDir: 'ethers-v6-types',
     target: 'ethers-v6',
   },
 };
